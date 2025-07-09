@@ -1,1 +1,2 @@
 hello.txt
+Hello Git! I'm learning version control like a baby!
